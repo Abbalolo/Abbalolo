@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abbalolo&label=Profile%20views&color=0e75b6&style=flat" alt="abbalolo" /> </p>
 
-- 🔭 I’m currently working on **Agreement app**
+- 🔭 I’m currently working on **Zidwell**
 
-- 🌱 I’m currently learning **Nextjs**
+- 🌱 I’m currently learning **Solidity**
 
 - 👨‍💻 All of my projects are available at [https://ibrahimlawalabba.netlify.app](https://ibrahimlawalabba.netlify.app)
 
