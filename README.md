@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ibrahim lawal abba</h1>
-<h3 align="center">A passionate software developer from nigeria</h3>
+<h3 align="center">A vasatile software developer from nigeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abbalolo&label=Profile%20views&color=0e75b6&style=flat" alt="abbalolo" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Solidity**
 
-- 👨‍💻 All of my projects are available at [https://ibrahimlawalabba.netlify.app](https://ibrahimlawalabba.netlify.app)
+- 👨‍💻 All of my projects are available at [ibrahimlawalabba](https://lolo-next-portfolio.vercel.app)
 
 - 💬 Ask me about **Html, Css,Tailwind, Javascript, Typescript, React, Nextjs**
 
