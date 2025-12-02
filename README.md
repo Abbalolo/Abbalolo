@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abbalolo&label=Profile%20views&color=0e75b6&style=flat" alt="abbalolo" /> </p>
 
-- 🔭 I’m currently working on **Zidwell**
+- 🔭 I’m currently working on **Zidwell Finance**
 
 - 🌱 I’m currently learning **Solidity**
 
