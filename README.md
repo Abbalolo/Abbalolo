@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Html, Css,Tailwind, Javascript, Typescript, React, Nextjs**
 
-- 📫 How to reach me **abbalolo@gmail.com**
+- 📫 How to reach me **abbalolo360@gmail.com**
 
 - ⚡ Fun fact **I love game n food**
 
